@@ -146,9 +146,12 @@ h2 {
     margin: auto;
     list-style: none;
     text-align: left;
+    
 }
 .dog-list li {
-    text-align: center;
+    text-align: left;
+    width: 10rem;
+    margin: auto;
 }
 
 .ball-icon {
